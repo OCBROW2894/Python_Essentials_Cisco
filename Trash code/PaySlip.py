@@ -1,4 +1,11 @@
 """
+Question(Problem) - Company XYZ LTD, A fast moving good selling Company Pays it's Employees on a retainer Salary of Ksh. 15,000
+                    Plus the Commision of 20% of Sales. The Employees are subjected to a 30% tax on Gross Pay
+                    
+                    Additional Information
+                    Gross Pay = Retainer salary Plus Commision
+                    Net Pay= Gross Pay Minus Tax
+                    
 eName - Employee Name
 rSalary- Retainer Salary
 gPay- Gross Pay
